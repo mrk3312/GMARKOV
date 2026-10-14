@@ -9,4 +9,4 @@
 
 # 📔 Literature
 
-[Link Text](URL)
+[Linux Device Drivers Research](https://github.com/mrk3312/mrk3312/blob/main/literature/research.pdf) (It was an assignment, therefore some parts can be omitted from reading (e.g what research method was used and why))
